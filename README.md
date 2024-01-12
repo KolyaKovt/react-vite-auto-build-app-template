@@ -1,8 +1,8 @@
-# React + Vite
+# Allow actions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1) go to settings
+2) go to actions
+3) go to general
+4) scroll to the bottom
+5) checkout read and write permissions and allow GitHub actions
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
